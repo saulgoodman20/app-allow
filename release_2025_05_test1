@@ -1,1 +1,2 @@
-allowed=true
+allowed=false
+// This was the new 2025 release test that lasted 2 hours, not to be enabled again
